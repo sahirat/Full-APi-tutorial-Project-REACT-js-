@@ -1,0 +1,24 @@
+.site-logo {
+  color: #ffc400;
+  font-size: 2rem;
+  font-weight: 600;
+  font-family: "cursive"
+}
+main {
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+}
+
+.container {
+  background: none;
+  width: 100%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.ant-layout,
+.ant-layout-footer {
+  background: none !important;
+}
